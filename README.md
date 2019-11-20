@@ -57,3 +57,9 @@ http://www.opencv.org.cn/opencvdoc/2.3.2/html/index.html
 
 ## python的第三方库  
 https://pypi.org/  
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2019-present, Thomas Yang
