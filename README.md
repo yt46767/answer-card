@@ -1,6 +1,6 @@
 <p align="center"><img width="350" src="./images/answer-card.jpg" alt="answer-card logo"></p>
 
-# 目录 
+# List of Contents
 ```
 answer-card  
 ├─.vscode vscode配置  
@@ -24,7 +24,7 @@ answer-card
 <br/>
 
 
-# 开始使用
+# Start to Use
 
 ## 使用python版本号  
 此项目使用3.5.0，建议范围：3.5.0 ~ 3.7.0    
@@ -51,14 +51,15 @@ py ./get_answer.py -i .//images//test_01.png
 可以通过.vscode的lauch.json配置运行及调试。  
 <br/>
 
-# 帮助与支持
+# Help and Support
 ## opencv的api文档（国内可以访问）  
 http://www.opencv.org.cn/opencvdoc/2.3.2/html/index.html 
 
 ## python的第三方库  
 https://pypi.org/  
+<br/>
 
-## License
+# License
 
 [MIT](http://opensource.org/licenses/MIT)
 
