@@ -6,7 +6,7 @@ imutils==0.5.3
 ipaddr==2.2.0
 keyring==19.2.0
 lockfile==0.12.2
-lxml==4.4.1
+lxml==4.6.5
 mock==3.0.5
 mypy_extensions==0.4.3
 numpy==1.17.4
