@@ -11,7 +11,7 @@ mock==3.0.5
 mypy_extensions==0.4.3
 numpy==1.17.4
 ordereddict==1.1
-protobuf==3.10.0
+protobuf==3.18.3
 pyOpenSSL==19.1.0
 simplejson==3.17.0
 toml==0.10.0
